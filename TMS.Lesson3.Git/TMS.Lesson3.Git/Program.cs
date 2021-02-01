@@ -10,6 +10,7 @@ namespace TMS.Lesson3.Git
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Now it should be better");
         }
     }
 }
