@@ -1,0 +1,6 @@
+.vs
+.env
+version.txt
+bin
+obj
+*.user
